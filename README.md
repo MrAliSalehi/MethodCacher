@@ -19,3 +19,5 @@ It Will Help You In Some Cases :))))
 Feel Free To Open Issues Or PR.
 
 <i>The Main Class Located In [Here](https://github.com/MrAliSalehi/MethodCacher/blob/master/MethodCacher/Cacher.cs)</i>
+
+<i>And [How To Use](https://github.com/MrAliSalehi/MethodCacher/blob/master/MethodCacher.Test/Program.cs) </i>
